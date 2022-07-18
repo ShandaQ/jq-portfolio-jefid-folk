@@ -2,7 +2,7 @@
   "name": "jq-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Jefid.github.io/jq-portfolio",
+  "homepage": "https://jefid.github.io/jq-portfolio/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
