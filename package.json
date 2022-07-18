@@ -27,6 +27,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "npm": ">=8.7.0"
+  },
+  "overrides": {
+    "react": "$react"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
