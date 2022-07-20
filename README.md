@@ -2,6 +2,8 @@
 
 # JEFID'S REACT PORTFOLIO
 
+<img src = "src\assets\mockup.gif">
+
 
 ## About
 
