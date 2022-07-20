@@ -64,6 +64,7 @@ Your app is ready to be deployed!
 
 
 ## Feedback
+[Check out my old repo to see my past commits!](https://github.com/Jefid/jefid-react-portfolio)
 
 Have something you'd like to add?<br>
 Feel free to contact me via email!<br>
