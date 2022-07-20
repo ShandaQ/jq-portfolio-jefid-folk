@@ -4,9 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
-var ghpages = require("gh-pages");
 
-ghpages.publish("dist", function (err) {});
 
 ReactDOM.render(
   <BrowserRouter>
