@@ -1,6 +1,7 @@
-.header { 
-    position: fixed;
+#header { 
+    position: relative;
     width: 100%;
     background-color: black;
-    align-self: start;
+    align-self: top;
+    
 }

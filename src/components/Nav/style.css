@@ -290,3 +290,24 @@ main {
     color: var(--secondary);
   }
   
+  #navbar {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-self: center;
+    justify-content: space-around;
+    font-size: x-large;
+  }
+
+
+#navbar li:hover{
+  background-color: #8c54ff;
+  border-radius: 30px;
+  padding: 10px;
+}
+
+#navbar li{
+  border-radius: 30px;
+  padding: 10px;
+  background-color: rgb(42, 39, 39);
+}

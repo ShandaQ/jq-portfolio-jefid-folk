@@ -8,7 +8,7 @@ function Contact() {
   const [name, setName, email, setEmail, message, setMessage] = useState('');
 
   return (
-    <div>
+    <div id= "maincontact">
 
         <h1> HMU </h1>
 
@@ -39,8 +39,8 @@ function Contact() {
         </a>
       </Container>
 
-      <form>
-        <Container>
+      <form id="contactform">
+        <Container >
           <TextField
             id='form-input'
             variant='filled'

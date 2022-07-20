@@ -3,9 +3,9 @@ import Nav from '../Nav'
 import './style.css';
 function Header() {
   return (
-    <header className='header'>
+    <header id= "header" className='header'>
       <div>
-        HEADER GOES HERE
+        Welcome to my react portfolio!
       </div>
       <Nav/>
 

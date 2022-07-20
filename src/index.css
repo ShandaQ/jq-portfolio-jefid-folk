@@ -226,6 +226,10 @@ textarea {
   padding-top: var(--spacing-two);
   padding-bottom: var(--spacing-two);
 }
+#app-card{
+  padding: 20px;
+  margin: 20px;
+}
 
 .card {
   width: 25%;

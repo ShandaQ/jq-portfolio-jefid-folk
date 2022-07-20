@@ -62,7 +62,7 @@ const Portfolio = () => {
 
   return (
     <div className='work-page'>
-      <h1 id='header'> deployed projects </h1>
+      <h1 id='header'> MY DEPLOYED PROJECTS </h1>
       {projects.map((project, i) => (
         // <Card id='project-card' key={project.id}>
         //   <CardContent className='card-content'>
